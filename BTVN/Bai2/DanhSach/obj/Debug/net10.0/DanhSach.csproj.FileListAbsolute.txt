@@ -1,0 +1,14 @@
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.exe
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.deps.json
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.runtimeconfig.json
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.dll
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\bin\Debug\net10.0\DanhSach.pdb
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.AssemblyInfoInputs.cache
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.AssemblyInfo.cs
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.dll
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\refint\DanhSach.dll
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.pdb
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\DanhSach.genruntimeconfig.cache
+D:\Nam_2\Net\BTVN\Bai2\DanhSach\obj\Debug\net10.0\ref\DanhSach.dll

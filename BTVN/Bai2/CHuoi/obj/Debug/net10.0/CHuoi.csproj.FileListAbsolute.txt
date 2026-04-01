@@ -1,0 +1,14 @@
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.AssemblyInfoInputs.cache
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.AssemblyInfo.cs
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\bin\Debug\net10.0\CHuoi.exe
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\bin\Debug\net10.0\CHuoi.deps.json
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\bin\Debug\net10.0\CHuoi.runtimeconfig.json
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\bin\Debug\net10.0\CHuoi.dll
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\bin\Debug\net10.0\CHuoi.pdb
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.dll
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\refint\CHuoi.dll
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.pdb
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\CHuoi.genruntimeconfig.cache
+D:\Nam_2\Net\BTVN\Bai2\CHuoi\obj\Debug\net10.0\ref\CHuoi.dll

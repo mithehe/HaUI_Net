@@ -1,0 +1,14 @@
+D:\Nam_2\Net\BTVN\Bai2\Mang\bin\Debug\net10.0\Mang.exe
+D:\Nam_2\Net\BTVN\Bai2\Mang\bin\Debug\net10.0\Mang.deps.json
+D:\Nam_2\Net\BTVN\Bai2\Mang\bin\Debug\net10.0\Mang.runtimeconfig.json
+D:\Nam_2\Net\BTVN\Bai2\Mang\bin\Debug\net10.0\Mang.dll
+D:\Nam_2\Net\BTVN\Bai2\Mang\bin\Debug\net10.0\Mang.pdb
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.AssemblyInfoInputs.cache
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.AssemblyInfo.cs
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.dll
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\refint\Mang.dll
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.pdb
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\Mang.genruntimeconfig.cache
+D:\Nam_2\Net\BTVN\Bai2\Mang\obj\Debug\net10.0\ref\Mang.dll
