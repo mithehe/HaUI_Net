@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{014180D7-139D-40CE-BE51-0076A9375A31}|DanhSach\\DanhSach.csproj|d:\\nam_2\\net\\trenlop\\bai2\\danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014180D7-139D-40CE-BE51-0076A9375A31}|DanhSach\\DanhSach.csproj|solutionrelative:danhsach\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A51D73B2-E155-44EB-80F5-AEEB22BB00E3}|GiaiThua\\GiaiThua.csproj|d:\\nam_2\\net\\trenlop\\bai2\\giaithua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A51D73B2-E155-44EB-80F5-AEEB22BB00E3}|GiaiThua\\GiaiThua.csproj|solutionrelative:giaithua\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E6F41A1-1093-4EC7-A38C-F55F2E38D250}|HinhChuNhat\\HinhChuNhat.csproj|d:\\nam_2\\net\\trenlop\\bai2\\hinhchunhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E6F41A1-1093-4EC7-A38C-F55F2E38D250}|HinhChuNhat\\HinhChuNhat.csproj|solutionrelative:hinhchunhat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D55B0AB1-C708-480D-A3CB-36493BE51C99}|Fibonaci\\Fibonaci.csproj|d:\\nam_2\\net\\trenlop\\bai2\\fibonaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D55B0AB1-C708-480D-A3CB-36493BE51C99}|Fibonaci\\Fibonaci.csproj|solutionrelative:fibonaci\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\Fibonaci\\Program.cs",
+              "RelativeDocumentMoniker": "Fibonaci\\Program.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\Fibonaci\\Program.cs",
+              "RelativeToolTip": "Fibonaci\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:59:46.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\GiaiThua\\Program.cs",
+              "RelativeDocumentMoniker": "GiaiThua\\Program.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\GiaiThua\\Program.cs",
+              "RelativeToolTip": "GiaiThua\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:04:41.131Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\DanhSach\\Program.cs",
+              "RelativeDocumentMoniker": "DanhSach\\Program.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\DanhSach\\Program.cs*",
+              "RelativeToolTip": "DanhSach\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T06:15:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\HinhChuNhat\\Program.cs",
+              "RelativeDocumentMoniker": "HinhChuNhat\\Program.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai2\\HinhChuNhat\\Program.cs",
+              "RelativeToolTip": "HinhChuNhat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T05:51:10.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

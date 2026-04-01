@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DanhSach/DanhSach.csproj" />
+  <Project Path="Fibonaci/Fibonaci.csproj" />
+  <Project Path="GiaiThua/GiaiThua.csproj" />
+  <Project Path="HinhChuNhat/HinhChuNhat.csproj" />
+</Solution>

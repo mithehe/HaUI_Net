@@ -1,0 +1,14 @@
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\bin\Debug\net10.0\HinhChuNhat.exe
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\bin\Debug\net10.0\HinhChuNhat.deps.json
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\bin\Debug\net10.0\HinhChuNhat.runtimeconfig.json
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\bin\Debug\net10.0\HinhChuNhat.dll
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\bin\Debug\net10.0\HinhChuNhat.pdb
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.AssemblyInfoInputs.cache
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.AssemblyInfo.cs
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.dll
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\refint\HinhChuNhat.dll
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.pdb
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\HinhChuNhat.genruntimeconfig.cache
+D:\Nam_2\Net\TrenLop\Bai2\HinhChuNhat\obj\Debug\net10.0\ref\HinhChuNhat.dll

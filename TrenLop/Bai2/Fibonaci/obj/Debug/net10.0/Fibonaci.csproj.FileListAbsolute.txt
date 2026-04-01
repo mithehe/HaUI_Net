@@ -1,0 +1,14 @@
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\bin\Debug\net10.0\Fibonaci.exe
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\bin\Debug\net10.0\Fibonaci.deps.json
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\bin\Debug\net10.0\Fibonaci.runtimeconfig.json
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\bin\Debug\net10.0\Fibonaci.dll
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\bin\Debug\net10.0\Fibonaci.pdb
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.AssemblyInfoInputs.cache
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.AssemblyInfo.cs
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.dll
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\refint\Fibonaci.dll
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.pdb
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\Fibonaci.genruntimeconfig.cache
+D:\Nam_2\Net\TrenLop\Bai2\Fibonaci\obj\Debug\net10.0\ref\Fibonaci.dll
