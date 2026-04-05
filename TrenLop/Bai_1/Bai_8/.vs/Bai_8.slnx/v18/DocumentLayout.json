@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\TrenLop\\Bai_1\\Bai_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B45C5342-1958-4276-8831-B7B712497B93}|Bai_8\\Bai_8.csproj|d:\\nam_2\\net\\trenlop\\bai_1\\bai_8\\bai_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B45C5342-1958-4276-8831-B7B712497B93}|Bai_8\\Bai_8.csproj|solutionrelative:bai_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai_1\\Bai_8\\Bai_8\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_8\\Program.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai_1\\Bai_8\\Bai_8\\Program.cs",
+              "RelativeToolTip": "Bai_8\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA0wBgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T01:02:22.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

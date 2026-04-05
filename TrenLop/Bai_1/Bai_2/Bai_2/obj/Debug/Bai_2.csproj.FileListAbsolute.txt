@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\bin\Debug\Bai_2.exe.config
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\bin\Debug\Bai_2.exe
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\bin\Debug\Bai_2.pdb
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\obj\Debug\Bai_2.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\obj\Debug\Bai_2.exe
+D:\Nam_2\Net\TrenLop\Bai_1\Bai_2\Bai_2\obj\Debug\Bai_2.pdb
