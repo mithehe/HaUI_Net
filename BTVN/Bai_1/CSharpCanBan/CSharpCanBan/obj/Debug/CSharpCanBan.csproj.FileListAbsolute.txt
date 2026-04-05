@@ -1,0 +1,7 @@
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\bin\Debug\CSharpCanBan.exe.config
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\bin\Debug\CSharpCanBan.exe
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\bin\Debug\CSharpCanBan.pdb
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.csproj.AssemblyReference.cache
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.exe
+D:\Nam_2\Net\BTVN\Bai_1\CSharpCanBan\CSharpCanBan\obj\Debug\CSharpCanBan.pdb

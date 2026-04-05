@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="TamGiac/TamGiac.csproj" />
+  <Project Path="TongChuoi/TongChuoi.csproj" />
+  <Project Path="XepLoaiHS/XepLoaiHS.csproj" />
+</Solution>

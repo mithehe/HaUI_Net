@@ -1,0 +1,7 @@
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\bin\Debug\TongChuoi.exe.config
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\bin\Debug\TongChuoi.exe
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\bin\Debug\TongChuoi.pdb
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\obj\Debug\TongChuoi.csproj.AssemblyReference.cache
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\obj\Debug\TongChuoi.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\obj\Debug\TongChuoi.exe
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\TongChuoi\obj\Debug\TongChuoi.pdb

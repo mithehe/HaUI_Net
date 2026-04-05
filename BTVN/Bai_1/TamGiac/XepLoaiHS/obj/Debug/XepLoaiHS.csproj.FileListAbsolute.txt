@@ -1,0 +1,7 @@
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\bin\Debug\XepLoaiHS.exe.config
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\bin\Debug\XepLoaiHS.exe
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\bin\Debug\XepLoaiHS.pdb
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\obj\Debug\XepLoaiHS.csproj.AssemblyReference.cache
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\obj\Debug\XepLoaiHS.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\obj\Debug\XepLoaiHS.exe
+D:\Nam_2\Net\BTVN\Bai_1\TamGiac\XepLoaiHS\obj\Debug\XepLoaiHS.pdb
