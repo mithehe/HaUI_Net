@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bai4/Person.csproj" />
+  <Project Path="Circle/Circle.csproj" Id="b4ee9914-8c50-4ca3-adf0-c6023c6af878" />
+  <Project Path="Student/Student.csproj" Id="b2ed3613-3e3c-4bdd-8654-208030435f4b" />
+</Solution>

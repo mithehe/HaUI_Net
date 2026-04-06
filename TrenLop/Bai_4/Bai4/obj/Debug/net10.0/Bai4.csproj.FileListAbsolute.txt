@@ -1,0 +1,14 @@
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.AssemblyInfoInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.AssemblyInfo.cs
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Bai4.exe
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Bai4.deps.json
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Bai4.runtimeconfig.json
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Bai4.dll
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Bai4.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.dll
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\refint\Bai4.dll
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Bai4.genruntimeconfig.cache
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\ref\Bai4.dll

@@ -1,0 +1,14 @@
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.AssemblyInfoInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.AssemblyInfo.cs
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Student\bin\Debug\net10.0\Student.exe
+D:\Nam_2\Net\TrenLop\Bai4\Student\bin\Debug\net10.0\Student.deps.json
+D:\Nam_2\Net\TrenLop\Bai4\Student\bin\Debug\net10.0\Student.runtimeconfig.json
+D:\Nam_2\Net\TrenLop\Bai4\Student\bin\Debug\net10.0\Student.dll
+D:\Nam_2\Net\TrenLop\Bai4\Student\bin\Debug\net10.0\Student.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.dll
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\refint\Student.dll
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\Student.genruntimeconfig.cache
+D:\Nam_2\Net\TrenLop\Bai4\Student\obj\Debug\net10.0\ref\Student.dll

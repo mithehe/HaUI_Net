@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2ED3613-3E3C-4BDD-8654-208030435F4B}|Student\\Student.csproj|d:\\nam_2\\net\\trenlop\\bai4\\student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2ED3613-3E3C-4BDD-8654-208030435F4B}|Student\\Student.csproj|solutionrelative:student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B8E04E5-FDAC-1ABC-EFBC-7252E5D0B0CA}|Bai4\\Person.csproj|d:\\nam_2\\net\\trenlop\\bai4\\bai4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B8E04E5-FDAC-1ABC-EFBC-7252E5D0B0CA}|Bai4\\Person.csproj|solutionrelative:bai4\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4EE9914-8C50-4CA3-ADF0-C6023C6AF878}|Circle\\Circle.csproj|d:\\nam_2\\net\\trenlop\\bai4\\circle\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4EE9914-8C50-4CA3-ADF0-C6023C6AF878}|Circle\\Circle.csproj|solutionrelative:circle\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\Circle\\Circle.cs",
+              "RelativeDocumentMoniker": "Circle\\Circle.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\Circle\\Circle.cs",
+              "RelativeToolTip": "Circle\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T02:03:16.583Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\Student\\Program.cs",
+              "RelativeDocumentMoniker": "Student\\Program.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\Student\\Program.cs*",
+              "RelativeToolTip": "Student\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T05:43:14.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\Bai4\\Person.cs",
+              "RelativeDocumentMoniker": "Bai4\\Person.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\TrenLop\\Bai4\\Bai4\\Person.cs",
+              "RelativeToolTip": "Bai4\\Person.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAADwvyMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T01:27:49.986Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

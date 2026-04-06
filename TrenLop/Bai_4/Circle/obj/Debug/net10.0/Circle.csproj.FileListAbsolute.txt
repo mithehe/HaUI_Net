@@ -1,0 +1,14 @@
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.AssemblyInfoInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.AssemblyInfo.cs
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Circle\bin\Debug\net10.0\Circle.exe
+D:\Nam_2\Net\TrenLop\Bai4\Circle\bin\Debug\net10.0\Circle.deps.json
+D:\Nam_2\Net\TrenLop\Bai4\Circle\bin\Debug\net10.0\Circle.runtimeconfig.json
+D:\Nam_2\Net\TrenLop\Bai4\Circle\bin\Debug\net10.0\Circle.dll
+D:\Nam_2\Net\TrenLop\Bai4\Circle\bin\Debug\net10.0\Circle.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.dll
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\refint\Circle.dll
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\Circle.genruntimeconfig.cache
+D:\Nam_2\Net\TrenLop\Bai4\Circle\obj\Debug\net10.0\ref\Circle.dll

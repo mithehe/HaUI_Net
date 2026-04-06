@@ -1,0 +1,14 @@
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Person.exe
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Person.deps.json
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Person.runtimeconfig.json
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Person.dll
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\bin\Debug\net10.0\Person.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.AssemblyInfoInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.AssemblyInfo.cs
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.dll
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\refint\Person.dll
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.pdb
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\Person.genruntimeconfig.cache
+D:\Nam_2\Net\TrenLop\Bai4\Bai4\obj\Debug\net10.0\ref\Person.dll
