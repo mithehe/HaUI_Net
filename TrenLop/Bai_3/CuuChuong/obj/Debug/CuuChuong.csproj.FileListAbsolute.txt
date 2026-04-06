@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\bin\Debug\CuuChuong.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\bin\Debug\CuuChuong.exe
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\bin\Debug\CuuChuong.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\obj\Debug\CuuChuong.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\obj\Debug\CuuChuong.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\obj\Debug\CuuChuong.exe
+D:\Nam_2\Net\TrenLop\Bai_3\CuuChuong\obj\Debug\CuuChuong.pdb

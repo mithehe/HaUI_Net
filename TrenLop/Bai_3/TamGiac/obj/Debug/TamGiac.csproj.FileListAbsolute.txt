@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\bin\Debug\TamGiac.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\bin\Debug\TamGiac.exe
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\bin\Debug\TamGiac.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\obj\Debug\TamGiac.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\obj\Debug\TamGiac.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\obj\Debug\TamGiac.exe
+D:\Nam_2\Net\TrenLop\Bai_3\TamGiac\obj\Debug\TamGiac.pdb

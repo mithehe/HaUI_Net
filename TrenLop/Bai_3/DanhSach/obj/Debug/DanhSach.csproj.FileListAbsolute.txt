@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\bin\Debug\DanhSach.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\bin\Debug\DanhSach.exe
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\bin\Debug\DanhSach.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\obj\Debug\DanhSach.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\obj\Debug\DanhSach.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\obj\Debug\DanhSach.exe
+D:\Nam_2\Net\TrenLop\Bai_3\DanhSach\obj\Debug\DanhSach.pdb

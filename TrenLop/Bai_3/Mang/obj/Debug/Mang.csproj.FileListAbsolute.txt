@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\bin\Debug\Mang.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\bin\Debug\Mang.exe
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\bin\Debug\Mang.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\obj\Debug\Mang.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\obj\Debug\Mang.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\obj\Debug\Mang.exe
+D:\Nam_2\Net\TrenLop\Bai_3\Mang\obj\Debug\Mang.pdb

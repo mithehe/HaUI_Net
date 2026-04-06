@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\bin\Debug\TachDay.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\bin\Debug\TachDay.exe
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\bin\Debug\TachDay.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\obj\Debug\TachDay.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\obj\Debug\TachDay.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\obj\Debug\TachDay.exe
+D:\Nam_2\Net\TrenLop\Bai_3\TachDay\obj\Debug\TachDay.pdb

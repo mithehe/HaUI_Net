@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Chuoi/Chuoi.csproj" />
+  <Project Path="CuuChuong/CuuChuong.csproj" />
+  <Project Path="DanhSach/DanhSach.csproj" />
+  <Project Path="HelloWorld/HelloWorld.csproj" />
+  <Project Path="Mang/Mang.csproj" />
+  <Project Path="NhapLieu/NhapLieu.csproj" />
+  <Project Path="TachDay/TachDay.csproj" />
+  <Project Path="TamGiac/TamGiac.csproj" />
+  <Project Path="TinhToan/TinhToan.csproj" />
+</Solution>

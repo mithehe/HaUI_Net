@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\bin\Debug\NhapLieu.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\bin\Debug\NhapLieu.exe
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\bin\Debug\NhapLieu.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\obj\Debug\NhapLieu.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\obj\Debug\NhapLieu.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\obj\Debug\NhapLieu.exe
+D:\Nam_2\Net\TrenLop\Bai_3\NhapLieu\obj\Debug\NhapLieu.pdb

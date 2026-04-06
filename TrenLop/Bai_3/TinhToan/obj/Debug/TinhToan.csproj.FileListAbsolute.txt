@@ -1,0 +1,7 @@
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\bin\Debug\TinhToan.exe.config
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\bin\Debug\TinhToan.exe
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\bin\Debug\TinhToan.pdb
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\obj\Debug\TinhToan.csproj.AssemblyReference.cache
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\obj\Debug\TinhToan.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\obj\Debug\TinhToan.exe
+D:\Nam_2\Net\TrenLop\Bai_3\TinhToan\obj\Debug\TinhToan.pdb
