@@ -1,0 +1,63 @@
+﻿<Window x:Class="De16825.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De16825"
+        mc:Ignorable="d"
+        Title="Bài thi kết thúc học phần" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Thông tin bệnh nhân" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,5,0,10"/>
+
+        <Label Content ="Mã bệnh nhân:" Grid.Row="1" Grid.Column="0" FontSize="16" Margin="20, 5, 10, 5"></Label>
+        <TextBox x:Name="txtMaBenhNhan" Grid.Row="1" Grid.Column="1" FontSize="16" Margin="40,5,250,5"/>
+
+        <Label Content ="Họ tên:" Grid.Row="2" Grid.Column="0" FontSize="16" Margin="20, 5, 10, 5"></Label>
+        <TextBox x:Name="txtHoTen" Grid.Row="2" Grid.Column="1" FontSize="16" Margin="40,5,250,5"/>
+
+        <Label Content ="Địa chỉ:" Grid.Row="3" Grid.Column="0" FontSize="16" Margin="20, 5, 10, 5"></Label>
+        <TextBox x:Name="txtDiaChi" Grid.Row="3" Grid.Column="1" FontSize="16" Margin="40,5,250,5"/>
+
+        <Label Content ="Số ngày nằm viện:" Grid.Row="4" Grid.Column="0" FontSize="16" Margin="20, 5, 10, 5"></Label>
+        <TextBox x:Name="txtSoNgayNamVien" Grid.Row="4" Grid.Column="1" FontSize="16" Margin="40,5,250,5"/>
+
+        <Label Content ="Khoa khám:" Grid.Row="5" Grid.Column="0" FontSize="16" Margin="20, 5, 10, 5"></Label>
+        <ComboBox x:Name="cboKhoaKham" Grid.Row="5" Grid.Column="1" FontSize="16" Margin="40,5,250,5"/>
+        
+
+        <DataGrid x:Name="dgvHienThi" Grid.Row="6" Grid.ColumnSpan="2" AutoGenerateColumns="False" ColumnWidth="*" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã bệnh nhân" Binding="{Binding Mabn}"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding Hoten}"/>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding Makhoa}"/>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding Diachi}"/>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SongayNv}"/>
+                <DataGridTextColumn Header="Viện phí" Binding="{Binding VienPhi}" CellStyle="{StaticResource thanhTienStyle}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="7" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal" x:Name="btnTem">
+            <Button Template="{StaticResource btnTemp}" x:Name="btnThem" Content="Thêm" Width="80" Margin="10" Click="btnThem_Click" />
+            <Button Template="{StaticResource btnTemp}" x:Name="btnSua" Content="Sửa" Width="80" Margin="10" Click="btnSua_Click"/>
+            <Button Template="{StaticResource btnTemp}" x:Name="btnXoa" Content="Xóa" Width="80" Margin="10"/>
+            <Button Template="{StaticResource btnTemp}" x:Name="btnThongKe" Content="Thống Kê" Width="80" Margin="10"/>
+        </StackPanel>
+    </Grid>
+</Window>
