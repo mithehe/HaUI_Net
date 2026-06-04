@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\search.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\models\\chitietbansach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\models\\chitietbansach.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\search.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\sqlquery1.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\quanlycuahangsach\\quanlycuahangsach\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5BEE6A31-BC13-314C-5801-44CEA25648C6}|QuanLyCuaHangSach\\QuanLyCuaHangSach.csproj|solutionrelative:quanlycuahangsach\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\Models\\TheLoai.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Models\\TheLoai.cs",
+              "RelativeToolTip": "QuanLyCuaHangSach\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T01:16:56.472Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChiTietBanSach.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Models\\ChiTietBanSach.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\Models\\ChiTietBanSach.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Models\\ChiTietBanSach.cs",
+              "RelativeToolTip": "QuanLyCuaHangSach\\Models\\ChiTietBanSach.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:33:02.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Search.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Search.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\Search.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Search.xaml.cs",
+              "RelativeToolTip": "QuanLyCuaHangSach\\Search.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T02:12:47.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\MainWindow.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\MainWindow.xaml",
+              "RelativeToolTip": "QuanLyCuaHangSach\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-02T14:00:34.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QuanLyCuaHangSach\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA5wNAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-02T14:00:32.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Search.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Search.xaml",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\Search.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\Search.xaml",
+              "RelativeToolTip": "QuanLyCuaHangSach\\Search.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-03T02:10:05.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SQLQuery1.sql",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\SQLQuery1.sql",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\SQLQuery1.sql",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\SQLQuery1.sql",
+              "RelativeToolTip": "QuanLyCuaHangSach\\SQLQuery1.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-06-02T14:02:37.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\App.xaml",
+              "RelativeDocumentMoniker": "QuanLyCuaHangSach\\App.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\QuanLyCuaHangSach\\QuanLyCuaHangSach\\App.xaml",
+              "RelativeToolTip": "QuanLyCuaHangSach\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-06-03T01:21:52.225Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

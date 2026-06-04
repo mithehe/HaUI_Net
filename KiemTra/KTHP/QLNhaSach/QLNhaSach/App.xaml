@@ -1,0 +1,30 @@
+﻿<Application x:Class="QLNhaSach.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:QLNhaSach"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="FontSize" Value="13"/>
+        </Style>
+
+        <ControlTemplate x:Key="temp" TargetType="Button">
+            <Grid>
+                <Ellipse Fill="LightGreen" />
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+
+        <Style TargetType="DataGridCell">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="FontWeight" Value="Bold"/>
+        </Style>
+    </Application.Resources>
+</Application>

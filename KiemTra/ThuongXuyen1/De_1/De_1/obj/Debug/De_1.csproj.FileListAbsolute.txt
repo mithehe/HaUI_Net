@@ -1,0 +1,7 @@
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\bin\Debug\De_1.exe.config
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\bin\Debug\De_1.exe
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\bin\Debug\De_1.pdb
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\obj\Debug\De_1.csproj.AssemblyReference.cache
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\obj\Debug\De_1.csproj.CoreCompileInputs.cache
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\obj\Debug\De_1.exe
+D:\Nam_2\Net\KiemTra\ThuongXuyen1\De_1\De_1\obj\Debug\De_1.pdb

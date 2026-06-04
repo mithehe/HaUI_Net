@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\de_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|solutionrelative:de_3\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\de_3\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|solutionrelative:de_3\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\de_3\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|solutionrelative:de_3\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de_3\\de_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|solutionrelative:de_3\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\de_3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|solutionrelative:de_3\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\de_3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DDCDB3-3B72-481A-9C90-21C59A4D00FE}|De_3\\De_3.csproj|solutionrelative:de_3\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 127,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "De_3\\Window2.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\Window2.xaml.cs",
+              "RelativeToolTip": "De_3\\Window2.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-15T02:59:54.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\App.xaml",
+              "RelativeDocumentMoniker": "De_3\\App.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\App.xaml",
+              "RelativeToolTip": "De_3\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-15T02:59:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\Window2.xaml",
+              "RelativeDocumentMoniker": "De_3\\Window2.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\Window2.xaml",
+              "RelativeToolTip": "De_3\\Window2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-12T04:45:21.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "De_3\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\MainWindow.xaml.cs",
+              "RelativeToolTip": "De_3\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:32:49.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\NhanVien.cs",
+              "RelativeDocumentMoniker": "De_3\\NhanVien.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\NhanVien.cs",
+              "RelativeToolTip": "De_3\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T15:22:35.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "De_3\\MainWindow.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De_3\\De_3\\MainWindow.xaml",
+              "RelativeToolTip": "De_3\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-05T14:08:31.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+﻿<Window x:Class="De_47263.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De_47263"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <Label Grid.Row="0" Grid.ColumnSpan="4" Content="THÔNG TIN ĐẶT PHÒNG" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center"/>
+
+        <Label Grid.Column="0" Grid.Row="1" Content="Mã đặt phòng"/>
+        <TextBox Grid.Column="1" Grid.Row="1" Name="txtMaDatPhong" Width="240" Margin="10,0,51,0"/>
+
+        <Label Grid.Column="2" Grid.Row="1" Content="Tên khách"/>
+        <TextBox Grid.Column="3" Grid.Row="1" Name="txtTenKhach" Width="240" Margin="10,0,51,0"/>
+
+        <Label Grid.Column="2" Grid.Row="2" Content="Số ngày ở"/>
+        <TextBox Grid.Column="3" Grid.Row="2" Name="txtSoNgayO" Width="240" Margin="10,0,51,0"/>
+
+        <Label Grid.Column="0" Grid.Row="2" Content="Giá phòng"/>
+        <TextBox Grid.Column="1" Grid.Row="2" Name="txtGiaPhong" Width="240" Margin="10,0,51,0"/>
+
+        <Label Grid.Column="0" Grid.Row="3" Content="Loại phòng"/>
+        <ComboBox Grid.Column="1" Grid.Row="3" Name="cboLoaiPhong" Width="240" Margin="10,0,51,0"/>
+
+        <DataGrid Grid.Row="4" Grid.ColumnSpan="4" AutoGenerateColumns="False" ColumnWidth="*" x:Name="dgvHienThi">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã đặt phòng" Binding="{Binding MaDp}"/>
+                <DataGridTextColumn Header="Tên khách" Binding="{Binding TenKhach}"/>
+                <DataGridTextColumn Header="Loại phòng" Binding="{Binding MaLoai}"/>
+                <DataGridTextColumn Header="Số ngày" Binding="{Binding SoNgayO}"/>
+                <DataGridTextColumn Header="Giá phòng" Binding="{Binding GiaPhong}"/>
+                <DataGridTextColumn Header="Tổng tiền" Binding="{Binding TongTien, StringFormat=\{0:N0\}}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="5" Grid.ColumnSpan="4" Orientation="Horizontal" HorizontalAlignment="Center">
+            <Button x:Name="btnThem" Content="Thêm" Height="32" Width="100" Margin="10, 5" Click="btnThem_Click"/>
+            <Button x:Name="btnSua" Content="Sửa" Height="32" Width="100" Margin="10, 5" Click="btnSua_Click" />
+            <Button x:Name="btnXoa" Content="Xóa" Height="32" Width="100" Margin="10, 5" Click="btnXoa_Click"/>
+            <Button x:Name="btnThongKe" Content="Thống kê" Height="32" Width="100" Margin="10, 5"/>
+        </StackPanel>
+    </Grid>
+</Window>

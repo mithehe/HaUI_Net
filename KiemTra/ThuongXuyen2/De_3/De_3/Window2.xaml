@@ -1,0 +1,20 @@
+﻿<Window x:Class="De_3.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De_3"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid Margin="10">
+        <DataGrid AutoGenerateColumns="False" ColumnWidth="*" x:Name="dgvHienThi">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding MaNV}" Header="Mã nhân viên" />
+                <DataGridTextColumn Binding="{Binding HoTen}" Header="Họ tên" />
+                <DataGridTextColumn Binding="{Binding GioiTinh}" Header="Giới tính" />
+                <DataGridTextColumn Binding="{Binding SoTienBanHang}" Header="Số tiền bán hàng" />
+                <DataGridTextColumn Binding="{Binding TienHoaHong}" Header="Số tiền hoa hồng" />
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

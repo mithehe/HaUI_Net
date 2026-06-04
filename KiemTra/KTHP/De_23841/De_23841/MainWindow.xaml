@@ -1,0 +1,59 @@
+﻿<Window x:Class="De_23841.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De_23841"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid Margin="5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Grid.Row="0" Grid.Column="0" Content="Mã sản phẩm"/>
+        <TextBox x:Name="txtMaSanPham" Grid.Row="0" Grid.Column="1" Margin="30,5,320,5" Width="320"/>
+
+        <Label Grid.Row="1" Grid.Column="0" Content="Tên sản phẩm"/>
+        <TextBox x:Name="txtTenSanPham" Grid.Row="1" Grid.Column="1" Margin="30,5,320,5" Width="320"/>
+
+        <Label Grid.Row="2" Grid.Column="0" Content="Số lượng"/>
+        <TextBox x:Name="txtSoLuong" Grid.Row="2" Grid.Column="1" Margin="30,5,320,5" Width="320"/>
+
+        <Label Grid.Row="3" Grid.Column="0" Content="Đơn giá"/>
+        <TextBox x:Name="txtDonGia" Grid.Row="3" Grid.Column="1" Margin="30,5,320,5" Width="320"/>
+
+        <Label Grid.Row="4" Grid.Column="0" Content="Danh mục sản phẩm"/>
+        <ComboBox x:Name="cboDanhMuc"  Grid.Row="4" Grid.Column="1" Margin="30,5,320,5" Width="320"/>
+
+        <DataGrid x:Name="dgvHienThi" Grid.Row="5" Grid.ColumnSpan="2" AutoGenerateColumns="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã sản phẩm" Binding="{Binding MaSp}"/>
+                <DataGridTextColumn Header="Tên sản phẩm" Binding="{Binding TenSp}" />
+                <DataGridTextColumn Header="Danh mục" Binding="{Binding MaDm}" />
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}"/>
+                <DataGridTextColumn Header="Số lượng" Binding="{Binding SoLuong}"/>
+                <DataGridTextColumn Header="Thành tiền" Binding="{Binding ThanhTien, StringFormat=\{0:N0\}}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" x:Name="temp">
+            <Button Template="{StaticResource temp}" x:Name="btnThem" Content="Thêm" Width="80" Margin="10, 5" Click="btnThem_Click"/>
+            <Button Template="{StaticResource temp}" x:Name="btnSua" Content="Sửa" Width="80" Margin="10, 5" Click="btnSua_Click" />
+            <Button Template="{StaticResource temp}" x:Name="btnXoa" Content="Xóa" Width="80" Margin="10, 5" Click="btnXoa_Click"/>
+            <Button Template="{StaticResource temp}" x:Name="btnThongKe" Content="Thống kê" Width="80" Margin="10, 5" Click="btnThongKe_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,59 @@
+﻿<Window x:Class="De_89037.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De_89037"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid Margin="5">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" Content="Mã hàng hóa"/>
+        <TextBox x:Name="txtMaHangHoa" Grid.Column="1" Grid.Row="0" Width="320" Margin="60,0,350,4"/>
+        
+        <Label Grid.Column="0" Grid.Row="1" Content="Tên hàng hóa"/>
+        <TextBox x:Name="txtTenHangHoa" Grid.Column="1" Grid.Row="1" Width="320" Margin="60,0,350,4"/>
+        
+        <Label Grid.Column="0" Grid.Row="2" Content="Đơn giá"/>
+        <TextBox x:Name="txtDonGia" Grid.Column="1" Grid.Row="2" Width="320" Margin="60,0,350,4" />
+        
+        <Label Grid.Column="0" Grid.Row="3" Content="Số lượng tồn"/>
+        <TextBox x:Name="txtSoLuongTon" Grid.Column="1" Grid.Row="3" Width="320" Margin="60,0,350,4"/>
+        
+        <Label Grid.Column="0" Grid.Row="4" Content="Nhà cung cấp"/>
+        <ComboBox x:Name="cboNhaCC" Grid.Column="1" Grid.Row="4" Width="320" Margin="60,0,350,4"/>
+
+        <DataGrid x:Name="dgvHienThi" Grid.Row="5" Grid.ColumnSpan="2" AutoGenerateColumns="False" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã hàng hóa" Binding="{Binding MaHh}"/>
+                <DataGridTextColumn Header="Tên hàng hóa" Binding="{Binding TenHh}"/>
+                <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}"/>
+                <DataGridTextColumn Header="Số lượng tồn" Binding="{Binding SoLuongTon}"/>
+                <DataGridTextColumn Header="Nhà cung cấp" Binding="{Binding MaNcc}"/>
+                <DataGridTextColumn Header="Giá trị tồn" Binding="{Binding GiaTriTon}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <StackPanel Grid.Row="6" Grid.ColumnSpan="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,5,0,0" x:Name="Tem">
+            <Button Template="{StaticResource tem}" x:Name="btnThem" Content="Thêm" Width="75" Height="30" Margin="10, 5" Click="btnThem_Click" />
+            <Button Template="{StaticResource tem}" x:Name="btnSua" Content="Sửa" Width="75" Height="30" Margin="10, 5" Click="btnSua_Click"/>
+            <Button Template="{StaticResource tem}" x:Name="btnXoa" Content="Xóa" Width="75" Height="30" Margin="10, 5" Click="btnXoa_Click"/>
+            <Button Template="{StaticResource tem}" x:Name="btnThongKe" Content="Thống kê" Width="75" Height="30" Margin="10, 5"/>
+        </StackPanel>
+    </Grid>
+</Window>

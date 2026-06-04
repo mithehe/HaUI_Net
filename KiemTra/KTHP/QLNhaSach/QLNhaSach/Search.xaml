@@ -1,0 +1,21 @@
+﻿<Window x:Class="QLNhaSach.Search"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QLNhaSach"
+        mc:Ignorable="d"
+        Title="Search" Height="450" Width="800"
+        Loaded="Window_Loaded">
+    <Grid>
+        <DataGrid Grid.Row="5" Grid.ColumnSpan="2" AutoGenerateColumns="False" ColumnWidth="*" x:Name="dgvHienThi" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã nhân viên" Binding="{Binding MaNv}"/>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}"/>
+                <DataGridTextColumn Header="Mã đơn hàng" Binding="{Binding MaDh}"/>
+                <DataGridTextColumn Header="Ngày đặt" Binding="{Binding NgayDat}"/>
+                <DataGridTextColumn Header="Tổng tiền" Binding="{Binding TongTien, StringFormat={}{0:N0}}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

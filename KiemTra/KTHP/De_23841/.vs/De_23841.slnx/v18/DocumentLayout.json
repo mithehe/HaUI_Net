@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\windowthongke.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\windowthongke.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\windowthongke.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\windowthongke.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\models\\qlsanphamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\models\\qlsanphamcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_23841\\de_23841\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C28114-DD29-4E0D-9240-B522C438360C}|De_23841\\De_23841.csproj|solutionrelative:de_23841\\models\\danhmuc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\App.xaml",
+              "RelativeDocumentMoniker": "De_23841\\App.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\App.xaml",
+              "RelativeToolTip": "De_23841\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-28T15:52:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WindowThongKe.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\WindowThongKe.xaml.cs",
+              "RelativeDocumentMoniker": "De_23841\\WindowThongKe.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\WindowThongKe.xaml.cs",
+              "RelativeToolTip": "De_23841\\WindowThongKe.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:46:53.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WindowThongKe.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\WindowThongKe.xaml",
+              "RelativeDocumentMoniker": "De_23841\\WindowThongKe.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\WindowThongKe.xaml",
+              "RelativeToolTip": "De_23841\\WindowThongKe.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-28T15:31:09.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "De_23841\\Models\\SanPham.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\Models\\SanPham.cs",
+              "RelativeToolTip": "De_23841\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:22:15.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "De_23841\\MainWindow.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\MainWindow.xaml",
+              "RelativeToolTip": "De_23841\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-28T13:21:17.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "De_23841\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\MainWindow.xaml.cs",
+              "RelativeToolTip": "De_23841\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAqwHgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:21:15.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QlsanPhamContext.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\Models\\QlsanPhamContext.cs",
+              "RelativeDocumentMoniker": "De_23841\\Models\\QlsanPhamContext.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\Models\\QlsanPhamContext.cs",
+              "RelativeToolTip": "De_23841\\Models\\QlsanPhamContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:25:55.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMuc.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\Models\\DanhMuc.cs",
+              "RelativeDocumentMoniker": "De_23841\\Models\\DanhMuc.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_23841\\De_23841\\Models\\DanhMuc.cs",
+              "RelativeToolTip": "De_23841\\Models\\DanhMuc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:41:02.776Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

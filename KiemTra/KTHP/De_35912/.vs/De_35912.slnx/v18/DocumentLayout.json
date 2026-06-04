@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_35912\\de_35912\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|solutionrelative:de_35912\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_35912\\de_35912\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|solutionrelative:de_35912\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\nguye\\AppData\\Local\\Temp\\.vsdbgsrc\\91b8eab688dba73dc7b179fffb2179670850a52b1cbbd82a2b0536ca94116ea9\\PropertyPathWorker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_35912\\de_35912\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|solutionrelative:de_35912\\models\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_35912\\de_35912\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|solutionrelative:de_35912\\models\\phongban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|d:\\nam_2\\net\\kiemtra\\kthp\\de_35912\\de_35912\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{329CF499-1B75-4F37-B0A8-F9CBBEDAFD59}|De_35912\\De_35912.csproj|solutionrelative:de_35912\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\QlnhanVienContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:De_35912\\Models\\QlnhanVienContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PropertyPathWorker.cs",
+              "DocumentMoniker": "C:\\Users\\nguye\\AppData\\Local\\Temp\\.vsdbgsrc\\91b8eab688dba73dc7b179fffb2179670850a52b1cbbd82a2b0536ca94116ea9\\PropertyPathWorker.cs",
+              "ToolTip": "C:\\Users\\nguye\\AppData\\Local\\Temp\\.vsdbgsrc\\91b8eab688dba73dc7b179fffb2179670850a52b1cbbd82a2b0536ca94116ea9\\PropertyPathWorker.cs [Read Only]",
+              "ViewState": "AgIAALIEAAAAAAAAAAAqwKUEAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:42:15.875Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhongBan.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\PhongBan.cs",
+              "RelativeDocumentMoniker": "De_35912\\Models\\PhongBan.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\PhongBan.cs",
+              "RelativeToolTip": "De_35912\\Models\\PhongBan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:13:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\App.xaml",
+              "RelativeDocumentMoniker": "De_35912\\App.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\App.xaml",
+              "RelativeToolTip": "De_35912\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-29T13:54:51.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "De_35912\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\MainWindow.xaml.cs",
+              "RelativeToolTip": "De_35912\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAcwIsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:32:26.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "De_35912\\MainWindow.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\MainWindow.xaml",
+              "RelativeToolTip": "De_35912\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-29T13:32:34.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\NhanVien.cs",
+              "RelativeDocumentMoniker": "De_35912\\Models\\NhanVien.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\NhanVien.cs",
+              "RelativeToolTip": "De_35912\\Models\\NhanVien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T14:21:52.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QlnhanVienContext.cs",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\QlnhanVienContext.cs",
+              "RelativeDocumentMoniker": "De_35912\\Models\\QlnhanVienContext.cs",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\KTHP\\De_35912\\De_35912\\Models\\QlnhanVienContext.cs",
+              "RelativeToolTip": "De_35912\\Models\\QlnhanVienContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-29T13:37:41.45Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

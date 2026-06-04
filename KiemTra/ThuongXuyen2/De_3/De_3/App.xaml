@@ -1,0 +1,24 @@
+﻿<Application x:Class="De_3.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:De_3"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontSize" Value="15"/>
+            <Setter Property="Foreground" Value="Green"/>
+        </Style>
+        <ControlTemplate TargetType="Button" x:Key="themTemp">
+            <Grid>
+                <Ellipse Fill="Pink"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+        <ControlTemplate TargetType="Button" x:Key="win2Temp">
+            <Grid>
+                <Ellipse Fill="Blue"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

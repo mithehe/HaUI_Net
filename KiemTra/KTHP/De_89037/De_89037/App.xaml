@@ -1,0 +1,30 @@
+﻿<Application x:Class="De_89037.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:De_89037"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="Foreground" Value="Blue" />
+        </Style>
+
+        <ControlTemplate TargetType="Button" x:Key="tem">
+            <Grid>
+                <Ellipse Fill="YellowGreen" Stroke="LightBlue" StrokeThickness="1"/>
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="FontWeight" Value="Bold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+        <Style TargetType="DataGridCell">
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="FontStyle" Value="Italic"/>
+            <Setter Property="Foreground" Value="Red"/>
+        </Style>
+    </Application.Resources>
+</Application>

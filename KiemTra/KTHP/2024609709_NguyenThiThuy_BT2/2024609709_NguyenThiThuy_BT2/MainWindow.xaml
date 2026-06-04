@@ -1,0 +1,70 @@
+﻿<Window x:Class="_2024609709_NguyenThiThuy_BT2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_2024609709_NguyenThiThuy_BT2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+        
+    <Grid Margin="10">
+            <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="QUẢN LÝ KHÓA HỌC" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Margin="0,0,0,10" Foreground="Blue"/>
+
+        <GroupBox Header="Thông tin khóa học" Grid.Row="1" Padding="10" FontWeight="Bold" Foreground="Blue">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Label Content="Mã khóa học:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" Margin="5" />
+                <TextBox Name="txtMaKhoaHoc" Grid.Row="0" Grid.Column="1" Margin="5"  />
+
+                <Label Content="Tên khóa học:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" Margin="5"/>
+                <TextBox Name="txtTenKhoaHoc" Grid.Row="1" Grid.Column="1" Margin="5"/>
+
+                <Label Content="Giảng viên:" Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" Margin="5"/>
+                <TextBox Name="txtGiangVien" Grid.Row="2" Grid.Column="1" Margin="5"/>
+
+                <Label Content="Số tín chỉ:" Grid.Row="0" Grid.Column="2" VerticalAlignment="Center" Margin="5"/>
+                <TextBox Name="txtSoTinChi" Grid.Row="0" Grid.Column="3" Margin="5"/>
+
+                <Label Content="Học phí:" Grid.Row="1" Grid.Column="2" VerticalAlignment="Center" Margin="5"/>
+                <TextBox Name="txtHocPhi" Grid.Row="1" Grid.Column="3" Margin="5"/>
+
+                <StackPanel Orientation="Horizontal" Grid.Row="3" Grid.ColumnSpan="4" HorizontalAlignment="Center" Margin="0,15,0,0">
+
+                    <Button Name="btnThem" Content="Thêm" Width="80" Margin="5" Click="btnThem_Click" FontWeight="Bold" Foreground="Navy"/>
+                    <Button Name="btnSua" Content="Sửa" Width="80" Margin="5" Click="btnSua_Click" FontWeight="Bold" Foreground="Navy"/>
+                    <Button Name="btnXoa" Content="Xóa" Width="80" Margin="5" Click="btnXoa_Click" FontWeight="Bold" Foreground="Navy"/>
+                    <Button Name="btnLamMoi" Content="Làm mới" Width="80" Margin="5" Click="btnLamMoi_Click" FontWeight="Bold" Foreground="Navy"/>
+                </StackPanel>
+            </Grid>
+        </GroupBox>
+
+        <DataGrid Name="dgvKhoaHoc" Grid.Row="2" Margin="0,10,0,0" AutoGenerateColumns="False" 
+                  CanUserAddRows="False" IsReadOnly="True">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã KH" Binding="{Binding MaKhoaHoc}" Width="*" />
+                <DataGridTextColumn Header="Tên khóa học" Binding="{Binding TenKhoaHoc}" Width="2*"/>
+                <DataGridTextColumn Header="Giảng viên" Binding="{Binding GiangVien}" Width="1.5*"/>
+                <DataGridTextColumn Header="Số tín chỉ" Binding="{Binding SoTinChi}" Width="*"/>
+                <DataGridTextColumn Header="Học phí" Binding="{Binding HocPhi, StringFormat=N0}" Width="1.5*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

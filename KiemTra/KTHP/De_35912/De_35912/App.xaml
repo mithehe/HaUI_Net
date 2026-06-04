@@ -1,0 +1,19 @@
+﻿<Application x:Class="De_35912.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:De_35912"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="FontFamily" Value="Times New Roman" />
+            <Setter Property="Foreground" Value="LightSteelBlue" />
+        </Style>
+
+        <ControlTemplate x:Key="temp" TargetType="Button">
+            <Grid>
+                <Ellipse Fill="DarkGoldenrod" />
+                <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+            </Grid>
+        </ControlTemplate>
+    </Application.Resources>
+</Application>

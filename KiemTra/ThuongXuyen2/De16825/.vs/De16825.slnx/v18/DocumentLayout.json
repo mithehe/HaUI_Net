@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E55D0328-AC4D-4C97-AD2A-5F2404BE188A}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55D0328-AC4D-4C97-AD2A-5F2404BE188A}|De16825\\De16825.csproj|solutionrelative:de16825\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|solutionrelative:de16825\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E55D0328-AC4D-4C97-AD2A-5F2404BE188A}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\models\\khoakham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E55D0328-AC4D-4C97-AD2A-5F2404BE188A}|De16825\\De16825.csproj|solutionrelative:de16825\\models\\khoakham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|solutionrelative:de16825\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\Models\\QlbenhNhanContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:De16825\\Models\\QlbenhNhanContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|solutionrelative:de16825\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E55D0328-AC4D-4C97-AD2A-5F2404BE188A}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{E55D0328-AC4D-4C97-AD2A-5F2404BE188A}|De16825\\De16825.csproj|solutionrelative:de16825\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\models\\khoakham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|solutionrelative:de16825\\models\\khoakham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|d:\\nam_2\\net\\kiemtra\\thuongxuyen2\\de16825\\de16825\\models\\qlbenhnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6018E8AD-0CB6-0840-7E87-54DB7A6290C4}|De16825\\De16825.csproj|solutionrelative:de16825\\models\\qlbenhnhancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +42,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "De16825\\MainWindow.xaml",
+              "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\MainWindow.xaml",
+              "RelativeToolTip": "De16825\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-05-25T12:01:17.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "De16825\\MainWindow.xaml.cs",
               "ToolTip": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\MainWindow.xaml.cs",
               "RelativeToolTip": "De16825\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAIwDEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwBkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-19T23:38:58.116Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "KhoaKham.cs",
               "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\Models\\KhoaKham.cs",
               "RelativeDocumentMoniker": "De16825\\Models\\KhoaKham.cs",
@@ -59,12 +75,11 @@
               "RelativeToolTip": "De16825\\Models\\KhoaKham.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T00:11:18.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-20T00:11:18.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\App.xaml",
               "RelativeDocumentMoniker": "De16825\\App.xaml",
@@ -76,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "QlbenhNhanContext.cs",
               "DocumentMoniker": "D:\\Nam_2\\Net\\KiemTra\\ThuongXuyen2\\De16825\\De16825\\Models\\QlbenhNhanContext.cs",
               "RelativeDocumentMoniker": "De16825\\Models\\QlbenhNhanContext.cs",
@@ -84,8 +99,7 @@
               "RelativeToolTip": "De16825\\Models\\QlbenhNhanContext.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA5wBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-19T23:04:06.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-19T23:04:06.544Z"
             }
           ]
         }
